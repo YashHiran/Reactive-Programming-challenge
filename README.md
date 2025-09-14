@@ -1,14 +1,6 @@
-# ReliaQuest Coding Challenge
-
-#### In this assessment you will be tasked with filling out the functionality of different methods that will be listed further down.
+# Coding Challenge
 
 These methods will require some level of API interactions with Mock Employee API at http://localhost:8112/api/v1/employee.
-
-Please keep the following in mind when doing this assessment: 
-* clean coding practices
-* test driven development 
-* logging
-* scalability
 
 See the section **How to Run Mock Employee API** for further instruction on starting the Mock Employee API.
 
